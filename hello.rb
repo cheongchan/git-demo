@@ -1,2 +1,2 @@
-puts "hello, World!"
-puts "stupid"
+puts "hello, World this is a git tutorial exercise!"
+puts "stupid, but necessary"
